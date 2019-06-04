@@ -1,0 +1,16 @@
+.Set CabinetNameTemplate=output\cab\FixBlockedFonts.diagcab
+.Set DiskDirectory1=.
+.Set CompressionType=MSZIP
+.Set Cabinet=on
+.Set Compress=on
+.Set CabinetFileCountThreshold=0
+.Set FolderFileCountThreshold=0
+.Set FolderSizeThreshold=0
+.Set MaxCabinetSize=0
+.Set MaxDiskFileCount=0
+.Set MaxDiskSize=0
+output\DiagPackage.cat
+output\FixBlockedFonts.diagpkg
+output\Functions.ps1
+output\RS_RC_BlockedFont.ps1
+output\TS_RC_BlockedFont.ps1
