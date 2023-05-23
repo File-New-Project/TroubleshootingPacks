@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <dcmPS:AdvDiagnosticPackage SchemaVersion="1.0" Localized="false" xmlns:dcmPS="http://www.microsoft.com/schemas/dcm/package/2007" xmlns:dcmRS="http://www.microsoft.com/schemas/dcm/resource/2007">
     <DiagnosticIdentification>
         <ID>72954d23-2250-4068-80f2-828d15ce40b3</ID>
-        <Version>1.0</Version>
+        <Version>1.1</Version>
     </DiagnosticIdentification>
     <DisplayInformation>
         <Parameters />
@@ -10,7 +10,7 @@
             <dcmRS:LocalizeResourceElement comment="Comment" index="1">Blocked Fonts</dcmRS:LocalizeResourceElement>
         </Name>
         <Description>
-            <dcmRS:LocalizeResourceElement comment="This is a comment" index="4">Looks for fonts containing a Mark of the Web. These fonts can cause problems with applications running on Windows 10.</dcmRS:LocalizeResourceElement>
+            <dcmRS:LocalizeResourceElement comment="This is a comment" index="4">Looks for fonts containing a Mark of the Web. These fonts can cause problems with applications running on Windows.</dcmRS:LocalizeResourceElement>
         </Description>
     </DisplayInformation>
     <PrivacyLink></PrivacyLink>
